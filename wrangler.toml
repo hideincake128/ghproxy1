@@ -1,0 +1,6 @@
+name = "ghproxy1"
+main = "src/index.ts"
+compatibility_date = "2022-10-03"
+
+[placement]
+mode = "smart"
